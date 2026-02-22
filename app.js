@@ -1,5 +1,9 @@
 const condition = true;
 
+fs.writeFile('file.txt', 'Hello World!', function (err) {
+  if (err) throw err;
+  console.log('File saved!');
+});
 const myPromise = new Promise((resolve, reject) => {
   if (condition) {
     resolve('Async Success!');
