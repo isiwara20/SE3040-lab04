@@ -1,0 +1,19 @@
+{
+  "name": "se3040-lab04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isiwara20/SE3040-lab04.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isiwara20/SE3040-lab04/issues"
+  },
+  "homepage": "https://github.com/isiwara20/SE3040-lab04#readme"
+}
