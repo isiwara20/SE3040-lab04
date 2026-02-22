@@ -7,3 +7,6 @@ http.createServer(function (req, res) {
 }).listen(8080);
 
 console.log("Server running on http://localhost:8080");
+const myModule = require('./my-module.js');
+
+console.log(myModule.myFunction());
